@@ -244,7 +244,7 @@ export const textNodes = [
     }, 
     {
         id: 18, 
-        text: 'You walk and walk, trying to escape the echoing sound of your footstepYou walk a bit faster, glancing hastily over your shoulder and trying to escape the echoing sound of your footsteps that creeps up behind you like a hungry wolf. Between flickering lights, you reach another choice…',
+        text: 'You walk a bit faster, glancing hastily over your shoulder and trying to escape the echoing sound of your footsteps that creeps up behind you like a hungry wolf. Between flickering lights, you reach another choice…',
         options: [
             {
                 text: 'TURN LEFT',
